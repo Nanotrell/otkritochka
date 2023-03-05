@@ -20,3 +20,40 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 	color: #A1A1A1;
 }
+.cont {
+	border-radius: 20px;
+}
+.tx {
+	font-family: "Segoe Print";
+}
+.img1 {
+	width: 156px;
+	height: 156px;
+	background-image: url(фотки/лиза1.jpg);
+	position: absolute;
+	top: 102px;
+	left: 41px;
+	border-radius: 15px;
+	background-size: 100% 100%;
+}
+.img2 {
+	width: 156px;
+	height: 156px;
+	background-image: url(фотки/я.jpg);
+	position: absolute;
+	top: 302px;
+	left: 41px;
+	border-radius: 15px;
+	background-size: 100% 100%;
+}
+.img3 {
+	width: 112px;
+	height: 101px;
+	background-image: url(фотки/кот1.jpg);
+	position: absolute;
+	top: 482px;
+	left: 248px;
+	border-radius: 90px;
+	border: solid 2px white;
+	background-size: 90% 100%;
+}
