@@ -11,6 +11,7 @@ body {
 	right: 0;
 	left: 0;
 	width: 100%;
+	display: block;
 	height: 30px;
 	background-color: #454742;
 }
