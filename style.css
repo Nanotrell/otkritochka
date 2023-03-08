@@ -5,16 +5,7 @@
 body {
 	margin: -1rem;
 	width: 100%;
-	overflow: overlay;
 }
-body::-webkit-scrollbar {
-	width: 5px;               /* ширина scrollbar */
-}
-body::-webkit-scrollbar-thumb {
-	background-color: #454742;    /* цвет плашки */
-	border-radius: 20px;       /* закругления плашки */
-}
-
 .krai {
 	position: absolute;
 	width: 101%;
